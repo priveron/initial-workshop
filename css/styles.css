@@ -1,0 +1,37 @@
+.coral {
+  color: coral;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.aqua {
+  color: aqua;
+}
+
+em {
+  font-weight: bold;
+}
+
+table, td {
+  border: 1px solid #333;
+}
+
+td.red {
+  border: 1px solid red;
+  color: red;
+}
+
+td {
+  text-align: center;
+  width: 90px;
+}
+
+ul {
+  padding-left: 0;
+}
